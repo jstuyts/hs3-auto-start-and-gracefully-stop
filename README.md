@@ -11,7 +11,7 @@ Run the script as an administrator.
 
 ## How to Use?
 
-1. Download [Enable-HomeSeerToStartAndStopAutomatically.ps1](Enable-HomeSeerToStartAndStopAutomatically.ps1)
+1. Download [Enable-HomeSeerToStartAndStopAutomatically.ps1](Enable-HomeSeerToStartAndStopAutomatically.ps1). Use button *raw* after clicking on this link.
 1. Start a PowerShell console as an administrator (Windows+X, Windows PowerShell (Admin))
 1. Use `help Enable-HomeSeerToStartAndStopAutomatically.ps1 -detailed` for information about how to use the script. It accepts the following parameters:
     * Username (mandatory)
